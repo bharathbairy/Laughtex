@@ -37,9 +37,13 @@ button:active {
 }
 
 .jokeBox {
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+    color: #2b2b2b;
+    padding: 1rem;
+    border-radius: 16px;
+    font-size: 1rem;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
     display: none;
     margin-top: 20px;
     border: 2px solid black;
-    border-radius: 10px;
-    padding: 10px;
 }
