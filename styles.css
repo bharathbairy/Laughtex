@@ -35,3 +35,11 @@ button:active {
     font-size: 1.5rem;
     color: #333333;
 }
+
+.jokeBox {
+    display: none;
+    margin-top: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px;
+}
