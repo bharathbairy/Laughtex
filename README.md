@@ -13,7 +13,7 @@
 
 ## Features
 
-- **Fetches random jokes** from the [icanhazdadjoke](https://icanhazdadjoke.com/api) API.
+- **Fetches random jokes** from the [JokeAPI](https://v2.jokeapi.dev/) API.
 - **Clean and accessible UI** with an intuitive button to show the next joke.
 - **Responsive design** that works smoothly on any screen size.
 - **User-friendly feedback** in case the joke API is unavailable.

@@ -3,7 +3,7 @@ document.getElementById('laughBtn').addEventListener('click', () => {
   const firstClick = document.querySelector('.firstClick');
   const jokeBox = document.querySelector('.jokeBox');
 
-  fetch('https://icanhazdadjoke.com/', {
+  fetch('https://v2.jokeapi.dev/joke/Any?type=single', {
     headers: {
       'Accept': 'application/json'
     }
