@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Laughtex",
+  "version": "1.0",
+  "description": "Click to get a random joke!",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "favicon-16x16.png"
+    }
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self'; object-src 'self'"
+  }
+}
